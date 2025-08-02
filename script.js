@@ -49,7 +49,7 @@ const clubes = [
     { 
         nome: "Atlético-MG", 
         periodo: "2012-2014", 
-        imagem: "https://images.performgroup.com/di/library/Goal_Brasil/58/95/ronaldinho-atletico-mineiro-coracao_d6g6ua6kcveo1wpsb2geemrdn.jpg?t=-1071029043&quality=90&w=1280",
+        imagem: "https://i.superesportes.com.br/-RghHHSD9YsJQBn2VRkZuVQRKts=/1200x1200/smart/imgsapp.mg.superesportes.com.br/app/noticia_126420360808/2023/06/21/3998205/ronaldinho_1_387103.png",
         emblema: "https://logodownload.org/wp-content/uploads/2016/10/atletico-mineiro-logo-escudo-.png"
     },
     { 
